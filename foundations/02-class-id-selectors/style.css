@@ -1,0 +1,21 @@
+.odd {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: #ffaaaa;
+    font-size: 24px;
+}
+
+.adjust-font-size {
+    font-size: 32px;
+}
+
+#two {
+    color: #0000ff;
+    font-size: 48px;
+}
+
+#four {
+    font-size: 32px;
+    font-weight: 700;
+    background-color: #aaffaa;
+}
+
